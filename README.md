@@ -18,27 +18,27 @@ Currently focused on:
 - 📱 Social media backend with Go & PostgreSQL
 - 🔔 Notification services and API integrations
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### 🚀 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker" />
+</p>
 
-Go • JavaScript • C++ • SQL
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs" />
+</p>
 
-**Backend**
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=go,js,cpp" />
+</p>
 
-Go • REST APIs • HTTP • Microservices • Authentication • RBAC
-
-**Frontend**
-
-React • Vite • Next.js
-
-**Database**
-
-PostgreSQL • Redis
-
-**DevOps & Tools**
-
-Docker • Git • GitHub • Linux • AWS
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" />
+</p>
 
 ### 📌 Featured Projects
 
