@@ -15,9 +15,9 @@ focus:
   - Database Design
 
 stack:
-  backend: Go
-  data: PostgreSQL · Redis
-  frontend: React · Next.js
+  backend: Go · Node.js · Express/Gin
+  data: PostgreSQL · Redis · SQL
+  frontend: React · Next.js · TailwindCSS
   infrastructure: Docker · AWS · Linux
 
 currently:
