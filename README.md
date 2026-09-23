@@ -22,25 +22,25 @@ Currently focused on:
 
 ### 🚀 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker" height="80" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker" height="200" width="400"/>
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nextjs" height="80" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs" height="200" width="400" />
 </p>
 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,js,cpp" height="80" />
+  <img src="https://skillicons.dev/icons?i=go,js,cpp" height="200" width="400" />
 </p>
 
 ### ☁️ DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" height="80" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" height="200" width="400" />
 </p>
 
 
