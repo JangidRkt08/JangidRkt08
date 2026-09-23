@@ -1,23 +1,29 @@
+```markdown
 # Hi, I'm Ravikant Jangid 👋
 
 ### Backend-Focused Full-Stack Developer
 
-I build scalable backend services and REST APIs using **Go, PostgreSQL, Docker, and React**.
+> I build backend services, REST APIs, and microservice systems with **Go**.
+```
 
-Currently focused on:
-- ⚙️ Backend engineering with Go
-- 🏗️ REST APIs & microservice architecture
-- 🗄️ PostgreSQL, Redis & database design
-- 🐳 Docker & containerized development
-- ☁️ AWS & production-oriented backend systems
+```yaml
+focus:
+  - Backend Engineering
+  - REST APIs
+  - Microservices
+  - Database Design
 
-### 🚀 Currently Building
+stack:
+  backend: Go
+  data: PostgreSQL · Redis
+  frontend: React · Next.js
+  infrastructure: Docker · AWS · Linux
 
-- 🔐 Authentication & authorization services in Go
-- ✈️ Flight booking microservice architecture
-- 📱 Social media backend with Go & PostgreSQL
-- 🔔 Notification services and API integrations
-
+currently:
+  - Building Go backend services
+  - Exploring system design
+ ``` 
+             
 ## 🛠️ Tech Stack
 
 ### 🚀 Backend
