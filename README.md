@@ -3,7 +3,7 @@
 ### Backend-Focused Full-Stack Developer
 ```markdown
 
-> I build backend services, REST APIs, and microservice systems with **Go**.
+> I build backend services, REST APIs, and microservice systems with Go.
 
 ```
 
