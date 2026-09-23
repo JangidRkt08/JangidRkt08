@@ -21,71 +21,66 @@ Currently focused on:
 ## 🛠️ Tech Stack
 
 ### 🚀 Backend
-### 🚀 Backend
 
 <p align="left">
   <a href="https://go.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go" height="70" alt="Go" />
+    <img src="https://skillicons.dev/icons?i=go" height="100" width="100" alt="Go" />
   </a>
   <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" height="70" alt="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="100" width="100" alt="PostgreSQL" />
   </a>
   <a href="https://redis.io/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redis" height="70" alt="Redis" />
+    <img src="https://skillicons.dev/icons?i=redis" height="100" width="100" alt="Redis" />
   </a>
   <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" height="70" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=docker" height="100" width="100" alt="Docker" />
   </a>
 </p>
 
-### 🎨 Frontend
 
 ### 🎨 Frontend
 
 <p align="left">
   <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="70" alt="React" />
+    <img src="https://skillicons.dev/icons?i=react" height="100" width="100" alt="React" />
   </a>
   <a href="https://vite.dev/guide/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vite" height="70" alt="Vite" />
+    <img src="https://skillicons.dev/icons?i=vite" height="100" width="100" alt="Vite" />
   </a>
   <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="70" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="100" width="100" alt="Next.js" />
   </a>
 </p>
 
-### 💻 Languages
 
 ### 💻 Languages
 
 <p align="left">
   <a href="https://go.dev/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go" height="70" alt="Go" />
+    <img src="https://skillicons.dev/icons?i=go" height="100" width="100" alt="Go" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" height="70" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=js" height="100" width="100" alt="JavaScript" />
   </a>
   <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="100" width="100" alt="C++" />
   </a>
 </p>
 
 ### ☁️ DevOps & Tools
 
-### ☁️ DevOps & Tools
-
 <p align="left">
   <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="70" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=git" height="100" width="100" alt="Git" />
   </a>
   <a href="https://docs.github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="100" width="100" alt="GitHub" />
   </a>
   <a href="https://docs.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" height="70" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=linux" height="100" width="100" alt="Linux" />
   </a>
   <a href="https://docs.aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="70" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=aws" height="100" width="100" alt="AWS" />
   </a>
 </p>
 
