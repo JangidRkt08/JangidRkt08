@@ -84,11 +84,6 @@ Currently focused on:
   </a>
 </p>
 
-### 📊 GitHub Activity
-
-I actively build backend projects, experiment with system design,
-and improve my understanding of production-oriented software engineering.
-
 ### 🤝 Let's Connect
 
 - LinkedIn: [Ravikant Jangid](YOUR_LINKEDIN_URL)
