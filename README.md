@@ -90,5 +90,3 @@ Currently focused on:
 - GitHub: [@JangidRkt08](https://github.com/JangidRkt08)
 
 ---
-
-⭐ Feel free to explore my repositories and projects.
