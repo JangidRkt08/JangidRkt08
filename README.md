@@ -93,7 +93,7 @@ currently:
 
 ### 🤝 Let's Connect
 
-- LinkedIn: [Ravikant Jangid](YOUR_LINKEDIN_URL)
+- LinkedIn: [Ravikant Jangid](https://www.linkedin.com/in/ravikant-jangid-452a39256/)
 - GitHub: [@JangidRkt08](https://github.com/JangidRkt08)
 
 ---
