@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Ravikant Jangid 👋
 
 ### Backend-Focused Full-Stack Developer
