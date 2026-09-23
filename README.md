@@ -97,3 +97,12 @@ currently:
 - GitHub: [@JangidRkt08](https://github.com/JangidRkt08)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=JangidRkt08&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
