@@ -22,40 +22,27 @@ Currently focused on:
 
 ### 🚀 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker" height="80" />
 </p>
 
 ### 🎨 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs" height="80" />
 </p>
 
 ### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=go,js,cpp" />
+  <img src="https://skillicons.dev/icons?i=go,js,cpp" height="80" />
 </p>
 
 ### ☁️ DevOps & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" height="80" />
 </p>
 
-### 📌 Featured Projects
-
-- [SocialMedia](https://github.com/JangidRkt08/SocialMedia)
-  - Social media backend built with Go.
-
-- [Flight-Booking-Service](https://github.com/JangidRkt08/Flight-Booking-Service)
-  - Backend service for a flight booking system.
-
-- [Notification-Service](https://github.com/JangidRkt08/Notification-Service)
-  - Notification microservice built with Go.
-
-- [API-Gateway-Airline](https://github.com/JangidRkt08/API-Gateway-Airline)
-  - API gateway for airline-related microservices.
-
-- [go-cli-auth](https://github.com/JangidRkt08/go-cli-auth)
-  - Authentication system built with Go and PostgreSQL.
 
 ### 📊 GitHub Activity
 
